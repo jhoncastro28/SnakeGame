@@ -1,0 +1,1 @@
+IntervaloComida=85
